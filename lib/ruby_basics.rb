@@ -8,8 +8,7 @@ end
 
 def argue(phrase)
   return phrase
-  
-end
+  end
 
 def greeting
 
